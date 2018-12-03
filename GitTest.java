@@ -1,3 +1,4 @@
+//Rejo
 public class GitTest{
 
 	private String value = "This is my GitHub test";
