@@ -1,5 +1,8 @@
 public class GitTest{
 
-	private String test = "This is my GitHub test";
+	private String value = "This is my GitHub test";
 
+	public String test(){
+		return value;
+	}
 }
